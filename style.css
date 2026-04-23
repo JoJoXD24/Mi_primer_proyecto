@@ -1,0 +1,46 @@
+header, nav{
+    background-color: gray;
+    padding: 15px;
+    display: flex; 
+    border-radius: 10px;
+    display: flex;
+    
+
+}
+#contacto{
+    padding: 15px;
+    background-color: grey;
+    border-radius: 10px;
+    display: flex; 
+    
+    
+}
+#redes_sociales{
+    padding: 15px;
+    background-color: grey;
+    border-radius: 10px;
+    display: flex; 
+    
+        
+}
+#Ayuda{
+    padding: 15px;
+    background-color: grey;
+    border-radius: 10px;
+    display: flex; 
+   
+        
+}
+.container{
+    background-color: gray;
+    align-items: center;
+    text-align: center;
+    padding-bottom: 15px;
+    border-radius: 12px;
+}
+footer{
+    background-color: black;
+    color: white;
+    padding: 20px;
+    border-radius: 12px;
+}
